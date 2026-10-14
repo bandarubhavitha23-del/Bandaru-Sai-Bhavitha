@@ -1,0 +1,6 @@
+{
+  "name": "Araku Coast Roastery & Cafe",
+  "description": "Where Araku Highlands meet the Vizag Coast. Specialty single-estate coffee, artisan sourdough, quiet remote work mezzanine, and seaside coffee house in Visakhapatnam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
